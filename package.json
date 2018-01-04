@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/rutti-bep/oauth-js-test/issues"
   },
-  "homepage": "https://github.com/rutti-bep/oauth-js-test#readme"
+  "homepage": "https://github.com/rutti-bep/oauth-js-test#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "oauth": "^0.9.15"
+  }
 }
